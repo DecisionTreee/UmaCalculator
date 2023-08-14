@@ -19,4 +19,6 @@
 [gamewiki.jp分数查定表](https://umamusume.gamewiki.jp/?top=on)<br/>
 [gamewith.jp评估分数计算公式和技能评估值](https://gamewith.jp/uma-musume/article/show/279308)<br/>
 
+****
+
 ****仅支持繁中服和未来的《闪耀！优俊少女》****
